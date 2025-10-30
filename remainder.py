@@ -1,0 +1,4 @@
+a=int(input("enter number a"))
+b=int(input("enter number b"))
+rem=a%b
+print("remainder:",rem)
